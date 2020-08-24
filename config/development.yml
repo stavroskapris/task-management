@@ -1,0 +1,6 @@
+db:
+  logging: true
+  synchronize: true
+
+jwt:
+  secret: 'topSecret51'

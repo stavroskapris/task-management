@@ -1,0 +1,7 @@
+server:
+  origin: 's3 bucket static site endpoit'
+
+db:
+  url: 'production url'
+  logging: false
+  synchronize: false
